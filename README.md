@@ -1,4 +1,4 @@
 # hello-world
 Hello world repository
 
-hi! i like c++
+hi! I like C++ and competitive programming
